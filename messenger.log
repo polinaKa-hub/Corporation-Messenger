@@ -1,0 +1,2 @@
+2025-08-06 11:07:27,759 - ERROR - Ошибка сериализации ответа для клиента ('127.0.0.1', 63743): 'is_system' is an invalid keyword argument for Message
+2025-08-06 11:08:56,855 - ERROR - Ошибка сериализации ответа для клиента ('127.0.0.1', 63743): 'is_system' is an invalid keyword argument for Message
